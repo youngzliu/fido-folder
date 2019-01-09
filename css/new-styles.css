@@ -1,0 +1,12 @@
+.important {
+  color: red;
+}
+
+p.intro{
+  width: 40%;
+  color: blue;
+}
+
+.special{
+  font-size: 300%;
+}
